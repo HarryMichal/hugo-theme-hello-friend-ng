@@ -1,0 +1,38 @@
+# Translation for Czech
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# Generic
+#
+[translations]
+other = "Překlady"
+
+[postAvailable]
+other = "Také dostupné v"
+
+
+# 404.html
+#
+[archives]
+other = "Archivy"
+
+[home]
+other = "Domů"
+
+[notFound]
+other = "Ups, stránka nebyla nalezena..."
+
+
+# posts/single.html
+#
+[readingTime]
+one   = "Jedna minuta"
+two   = "Dvě minuty"
+other = "{{ .Count }} minut"
+
+[tableOfContents]
+other = "Obsah"
+
+[wordCount]
+one   = "Jedno Slovo"
+two   = "Dvě Slova"
+other = "{{ .Count }} Slov"
